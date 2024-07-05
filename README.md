@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Python and DSA
 - 💞️ I’m looking to collaborate on projects on AI and ML
-- 📫 How to reach me via a gmail id:parnika272003@gmail.com
+- 📫 U can reach me via a gmail id:parnika272003@gmail.com
 - 😄 Pronouns: Parni
 - ⚡ Fun fact: I am curious to learn new technologies
 
